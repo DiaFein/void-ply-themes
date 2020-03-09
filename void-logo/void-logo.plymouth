@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Void Logo
+Description=A theme that features a blank background with a Void Linux logo.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/void-logo
+ScriptFile=/usr/share/plymouth/themes/void-logo/void-logo.script
